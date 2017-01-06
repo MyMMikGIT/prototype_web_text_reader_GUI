@@ -7,6 +7,8 @@ import io
 import webbrowser
 import common_modules as cm
 
+""" For GUI to work it requires specific local filesystem """
+
 """ PRE GUI DATA PREPARATION """
 
 
